@@ -1,9 +1,9 @@
 // Author: Jeremiah Strippoli jjs7255@psu.edu
-// Collaborator:
-// Collaborator:
-// Collaborator:
-// Section: 
-// Breakout: 
+// Collaborator: Yue Wu yzw5627@psu.edu
+// Collaborator: Elliot Marsico eam6077@psu.edu
+// Collaborator: Heqin Wang hbw5248@psu.edu 
+// Section: 012R
+// Breakout: 7
 #include <stdio.h>
 #include <stdlib.h>
 #include <readline/readline.h>
