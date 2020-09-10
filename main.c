@@ -29,11 +29,8 @@ int main(void) {
   else if(grade >= 77.0) {
     printf("Your letter grade for CMPSC 131 is C+.\n");
   }
-  else if(grade >= 73.0) {
-    printf("Your letter grade for CMPSC 131 is C.\n");
-  }
   else if(grade >= 70.0) {
-    printf("Your letter grade for CMPSC 131 is C-.\n");
+    printf("Your letter grade for CMPSC 131 is C.\n");
   }
   else if(grade >= 60.0) {
     printf("Your letter grade for CMPSC 131 is D.\n");
